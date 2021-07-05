@@ -2,7 +2,12 @@
 
 I'm .NET Software Developer. Programming mostly desktop applications or tools used in game industry. Usually working with technologies as WPF/ASP.NET/Xamarin.Forms/EntityFrameworkCore and SQL.
 
-- Currently working on: [ResourceManager](https://github.com/Prastiwar/ResourceManager) - framework to fast development of simple software tool desktop application which provides ability to edit resources
+- Currently working on: [ResourceManager](https://github.com/Prastiwar/ResourceManager) - framework for fast development of simple software tool desktop application which provides ability to edit resources
+
+See me also on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasz-piowczyk/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tomasz.piowczyk/)
 
 #
 
@@ -11,15 +16,15 @@ I'm .NET Software Developer. Programming mostly desktop applications or tools us
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Xamarin](https://img.shields.io/badge/Xamarin-512BD4?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin)
+[![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin)
 
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logoColor=white)
 
-[![Unity](https://img.shields.io/badge/unity-111?style=for-the-badge&logoColor=white)](https://unity.com/)
-[![Unreal](https://img.shields.io/badge/unreal-white?style=for-the-badge&logoColor=black)](https://www.unrealengine.com/en-US/)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
-[![Java](https://img.shields.io/badge/java-339999?style=for-the-badge&logoColor=red)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 #
 
