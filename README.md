@@ -1,8 +1,6 @@
 ## 👋 Welcome on Tomasz Piowczyk's profile 
 
-I'm .NET Software Developer. Programming mostly desktop applications or tools used in game industry. Usually working with technologies as WPF/ASP.NET/Xamarin.Forms/EntityFrameworkCore and SQL.
-
-- Currently working on: [ResourceManager](https://github.com/Prastiwar/ResourceManager) - framework for fast development of simple software tool desktop application which provides ability to edit resources
+I'm .NET Software Developer. Programming mostly desktop applications or tools used in game industry. Usually working with technologies as WPF/ASP.NET/Xamarin.Forms/Entity Framework Core and SQL.
 
 See me also on:
 
