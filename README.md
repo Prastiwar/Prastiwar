@@ -1,6 +1,8 @@
 ## 👋 Welcome on Tomasz Piowczyk's profile 
 
-I'm .NET Software Developer. Programming mostly desktop applications or tools used in game industry. Usually working with technologies as WPF/ASP.NET/Xamarin.Forms/Entity Framework Core and SQL.
+I'm **Software Engineer** with mostly **.NET** background. I used to code desktop applications or tools used in game industry in tech stack: WPF/ASP.NET/Xamarin.Forms/Entity Framework Core and SQL. 
+
+Currently I'm motivated and target to explore and work with software as **Go Developer**.
 
 See me also on:
 
@@ -11,12 +13,18 @@ See me also on:
 
 ### 🛠️ Skills
 
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white)](https://go.dev/)
+[![Microservices](https://img.shields.io/badge/Microservices-00ADD8?style=for-the-badge&logoColor=white)](https://microservices.io/)
+
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin)
 
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logoColor=white)
+[![MongoDb](https://img.shields.io/badge/MongoDb-4DB33D?style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+![MSSQL](https://img.shields.io/badge/MSSQL-A91D22?style=for-the-badge&logoColor=white)
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
